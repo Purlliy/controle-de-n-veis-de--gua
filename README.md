@@ -1,6 +1,6 @@
 ## controle-de-niveis-de-agua 🧪
 ---
-## Objetivo do programa 📃
+# Objetivo do programa 📃
 O programa tem o objetivo de servir como um medidor do nivel da agua em um reservatorio. Mostrando o nivel, a situação do nivel (exemplo: muito baixo, alto, médio) e uma cor que sugere o perigo do nivel.
 ---
 ## Como funciona o programa 🛠
